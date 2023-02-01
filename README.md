@@ -1,7 +1,12 @@
-### Hi there 👋
 
 ### Let me introduce myself
-Hello , I'm greeny in Github.. This document is just a demo version of my practice
+Hello , I'm greeny in Github.. 
+
+This document is just a demo version of my practice
+
+upload on Github by gitbash.
+
+
 
 
 <!--
