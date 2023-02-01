@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Let me introduce myself
+Hello , I'm greeny in Github.. This document is just a demo version of my practice
+
+
 <!--
 **Jeong-m1n/Jeong-m1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
