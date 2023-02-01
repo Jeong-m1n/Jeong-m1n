@@ -6,6 +6,9 @@ This document is just a demo version of my practice
 
 upload on Github by gitbash.
 
+### available languages
+
+- Python
 
 
 
